@@ -5,3 +5,5 @@ Antigua
 Vietnam
 USA
 Italy
+Spain
+Portugal
