@@ -6,6 +6,8 @@
 
 ## Git Cheats for single commits using -p flag
 
+**git add -p**
+
 -          y - stage this hunk
            n - do not stage this hunk
            q - quit; do not stage this hunk nor any of the remaining ones
